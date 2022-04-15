@@ -1,2 +1,2 @@
-# CS300-Data-Structure-Algorythm-Project-
+# CS300-Data-Structure-Algorithm-Project-
 Advertising Assistance Program - Code Project 
